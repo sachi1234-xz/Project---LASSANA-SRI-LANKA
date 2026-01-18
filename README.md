@@ -1,8 +1,10 @@
 Tourism Guide Website – LASSANA SRI LANKA
 
 Group Information Student 
-1: S.M.S.S.Rathnayaka – ITBIN-2313-0091 – Role: DevOps,Frontend Developer
-2: D.M.L.Malmi Bandara – ITBIN-2313-0013 – Role: DevOps,Frontend Developer
+
+1: S.M.S.S.Rathnayaka – ITBIN-2313-0091 – Role: DevOpsDeveloper
+
+2: D.M.L.Malmi Bandara – ITBIN-2313-0013 – Role: Full-stack Developer
 
 Project Description This project is a Sri Lanka Tourism Guide Website developed using HTML, CSS, and JavaScript.
 The website allows tourists to explore popular destinations in Sri Lanka categorized as: -Beach Side Places
